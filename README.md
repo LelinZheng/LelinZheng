@@ -9,7 +9,7 @@
 - 🔬 Former Research Assistant: 🔍 Analyzed data from over 200 tensile, UV degradation, and compression tests to developed an end-of-life sensor for textiles detecting critical deterioration thresholds (50% and 80%).  
 
 ## My Recent Projects 🛠️  
-<!-- - 🎮 **LLM Game Master:** Developed an offline desktop app featuring classic text-based games powered by a local TinyLlama LLM via ONNX Runtime; utilized Python's asyncio, built a responsive PyQt6 UI, and integrated Whisper for voice interactions.  -->
+- 🎮 **ConquestFour: AI-Powered Narrative Connect Four (Runner-Up, Qualcomm On-Device AI Hackathon):** Built a PyQt6 UI for an offline AI-powered Connect Four, integrating Mistral-7B (Ollama) for dynamic storytelling, Whisper ASR for voice input, and minimax with alpha-beta pruning for strategic AI gameplay.
 - 🎵 **Gesture-Based Music Creation App:** Created an interactive Java GUI that uses gesture recognition to compose music, significantly boosting composition speed and enhancing user engagement.  
 - 🌍 **Climate Resiliency Hackathon:** Analyzed multi-layered socioeconomic and environmental data to determine optimal emergency shelter locations in King County, complete with interactive Tableau visualizations for data-driven decision-making.  
 - 🌳 **Digital Family Tree:** Built a Python application to create and explore family trees, implementing BFS for relationship searches and visualizing data with NetworkX.
@@ -57,7 +57,7 @@
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/tableau.svg" alt="Tableau" width="40" height="40"/>
 </a>
 <a href="https://www.riverbankcomputing.com/software/pyqt/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/PyQt_logo.png/40px-PyQt_logo.png" alt="PyQt" width="40" height="40"/>
+  <img src="https://pythonprogramming.net/static/images/categories/qt.png" alt="PyQt" width="40" height="40"/>
 </a>
 <a href="https://flask.palletsprojects.com/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" width="40" height="40"/>
