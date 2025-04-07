@@ -9,6 +9,7 @@
 - 🔬 Former Research Assistant: 🔍 Analyzed data from over 200 tensile, UV degradation, and compression tests to developed an end-of-life sensor for textiles detecting critical deterioration thresholds (50% and 80%).  
 
 ## My Recent Projects 🛠️  
+- ✅ **TaskMaster: Full-Stack To-Do App with JWT Auth:** Built a secure task management app using React, Node.js, Express, and MongoDB, with protected routes and authentication via JWT. Implemented features like task creation, editing, deletion, search, and sort, styled with Bootstrap, and tested backend routes and middleware using Jest and Supertest.
 - 🎮 **ConquestFour: AI-Powered Narrative Connect Four (Runner-Up, Qualcomm On-Device AI Hackathon):** Built a PyQt6 UI for an offline AI-powered Connect Four, integrating Mistral-7B (Ollama) for dynamic storytelling, Whisper ASR for voice input, and minimax with alpha-beta pruning for strategic AI gameplay.
 - 🎵 **Gesture-Based Music Creation App:** Created an interactive Java GUI that uses gesture recognition to compose music, significantly boosting composition speed and enhancing user engagement.  
 - 🌍 **Climate Resiliency Hackathon:** Analyzed multi-layered socioeconomic and environmental data to determine optimal emergency shelter locations in King County, complete with interactive Tableau visualizations for data-driven decision-making.  
@@ -43,10 +44,24 @@
 </a>
 
 ### Tools & Frameworks ⚙️
+<a href="https://nodejs.org" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
+</a>
+<a href="https://expressjs.com" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" width="40" height="40"/>
+</a>
+<a href="https://reactjs.org/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+</a>
+<a href="https://getbootstrap.com/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40"/>
+</a>
+<a href="https://jestjs.io/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" alt="Jest" width="40" height="40"/>
+</a>
 <a href="https://git-scm.com/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
 </a>
-<!-- Java icon representing Java GUI (AWT & Swing) -->
 <a href="https://www.oracle.com/java/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java GUI (AWT & Swing)" width="40" height="40"/>
 </a>
@@ -70,6 +85,9 @@
 </a>
 
 ### Databases 💾
+<a href="https://www.mongodb.com/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
+</a>
 <a href="https://www.mysql.com/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
 </a>
