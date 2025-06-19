@@ -62,9 +62,6 @@
 <a href="https://git-scm.com/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
 </a>
-<a href="https://www.oracle.com/java/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java GUI (AWT & Swing)" width="40" height="40"/>
-</a>
 <a href="https://www.linux.org/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux/Unix" width="40" height="40"/>
 </a>
@@ -82,6 +79,9 @@
 </a>
 <a href="https://junit.org/junit5/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit/junit-plain.svg" alt="JUnit" width="40" height="40"/>
+</a>
+<a href="https://aws.amazon.com/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
 </a>
 
 ### Databases 💾
