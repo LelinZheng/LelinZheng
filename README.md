@@ -11,10 +11,11 @@
 
 ## My Recent Projects 🛠️  
 
-- 🍅 **TomatoesTasks: Gamified Task Manager II**: Built a full-stack productivity web application that gamifies task completion through a tomato-growing system. Implemented JWT-based authentication, full CRUD task management with priorities and due dates, and a dynamic React garden UI that visualizes missed-task penalties. Developed with Spring Boot 3, React, and MySQL, and deployed on AWS using EC2 for backend hosting, S3 for frontend static assets, and Nginx as a reverse proxy.
-- ✅ **TaskMaster: Full-Stack Task Manager App with JWT Auth:** Built a secure task management app using React, Node.js, Express, and MongoDB, with protected routes and authentication via JWT. Implemented features like task creation, editing, deletion, search, and sort, styled with Bootstrap, and tested backend routes and middleware using Jest and Supertest.
-- 🛍 **NextGen-Online-Shop:** Spring Boot 3 microservices e-commerce platform with 3 services (Product, Order, Inventory) behind Spring Cloud Gateway, using Eureka, Config Server, Kafka (event-driven), Resilience4j (fault tolerance), and observability via OpenTelemetry, Prometheus, Grafana, Loki, and Tempo, containerized with Docker and deployed on Kubernetes for 99.9% uptime
-- 🎮 **ConquestFour: AI-Powered Narrative Connect Four (Runner-Up, Qualcomm On-Device AI Hackathon):** Built a PyQt6 UI for an offline AI-powered Connect Four, integrating Mistral-7B (Ollama) for dynamic storytelling, Whisper ASR for voice input, and minimax with alpha-beta pruning for strategic AI gameplay.
+- 🍅 **TomatoesTasks: Gamified Task Manager II**: Built a full-stack productivity app with JWT authentication, task CRUD, and a dynamic React garden UI. Developed using Spring Boot 3, React, MySQL, and deployed on AWS (EC2, S3, Nginx).
+- ✅ **TaskMaster: Full-Stack Task Manager App with JWT Auth**: Built a secure task manager with protected routes, CRUD, search, and sort using React, Node.js, Express, MongoDB**, styled with Bootstrap, and tested with Jest & Supertest.
+- 🛍 **NextGen-Online-Shop**: Designed a Spring Boot 3 microservices e-commerce platform using Spring Cloud Gateway, Eureka, Kafka, Resilience4j, with Docker, Kubernetes, and observability via Prometheus & Grafana.
+- 🎮 **ConquestFour: AI-Powered Narrative Connect Four (Runner-Up, Qualcomm On-Device AI Hackathon)**: Built an offline AI Connect Four with PyQt6, Mistral-7B (Ollama) for storytelling, Whisper ASR, and minimax with alpha-beta pruning.
+
 
 ## Connect with Me 🤝  
 <p align="center">
