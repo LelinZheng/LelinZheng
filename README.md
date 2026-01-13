@@ -1,9 +1,9 @@
 # Hello 👋, I'm Lelin Zheng
 
 ## About Me ✨  
-- 📚 Master's in Computer Science (MSCS) candidate at Northeastern University
+- 📚 Master's in Computer Science (MSCS) candidate at Northeastern University, based in Seattle, WA 🇺🇸
 - 💻 Passionate about software development, problem-solving, and quick adaptation to new technologies
-- 🍎 Former High School Computer Science Teacher: 👨‍🏫 Taught computer science to over 100 grade 10/11 students, covering programming fundamentals, algorithms, OOP in Python, and HTML/CSS for web development.  
+- 🍎 Former High School Computer Science Teacher in Canada 🇨🇦
 
 ## Experience 💼
 - 🧪 Software Engineer Intern @ Jetsweat (Summer 2025): Built RESTful APIs (Node.js, Express.js, MySQL), revamped React/Redux onboarding UX, and enhanced admin dashboards (JavaScript, EJS, Bootstrap), improving engagement and support efficiency by 25%.
@@ -42,3 +42,13 @@
 
 ### Databases 💾
 <div align="center"> <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite" /> </div>
+
+
+## My Contributions 🐍
+<div align="center">
+  <br/>
+  <img
+    alt="snake eating my contributions"
+    src="https://raw.githubusercontent.com/LelinZheng/LelinZheng/output/github-contribution-grid-snake.svg"
+  />
+</div>
