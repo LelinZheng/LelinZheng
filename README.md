@@ -42,7 +42,7 @@
 </div>
 
 ### Databases 💾
-<div align="center"> <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite" /> </div>
+<div align="center"> <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,sqlite" /> </div>
 
 
 ## My Contributions 🐍
