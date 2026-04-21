@@ -10,12 +10,10 @@
 
 
 ## My Recent Projects 🛠️  
-
+- 🚀 **Distributed CI/CD Orchestration Platform**: Built a distributed CI/CD system with Spring Boot microservices, RabbitMQ, Docker, and Kubernetes, supporting async pipeline execution, dependency-aware job scheduling, and resilient job orchestration with Prometheus/Grafana monitoring.
+- 💬 **ChatFlow: Distributed WebSocket Chat System**: Built a scalable real-time chat system with Spring Boot, AWS, RabbitMQ, Redis Pub/Sub, and PostgreSQL, supporting fault-tolerant multi-room messaging and async persistence at 5.2K msg/s.
 - 🍅 **TomatoesTasks: Gamified Task Manager II**: Built a full-stack productivity app with JWT authentication, task CRUD, and a dynamic React garden UI. Developed using Spring Boot 3, React, MySQL, and deployed on AWS (EC2, S3, Nginx).
-- ✅ **TaskMaster: Full-Stack Task Manager App with JWT Auth**: Built a secure task manager with protected routes, CRUD, search, and sort using React, Node.js, Express, MongoDB**, styled with Bootstrap, and tested with Jest & Supertest.
-- 🛍 **NextGen-Online-Shop**: Designed a Spring Boot 3 microservices e-commerce platform using Spring Cloud Gateway, Eureka, Kafka, Resilience4j, with Docker, Kubernetes, and observability via Prometheus & Grafana.
 - 🎮 **ConquestFour: AI-Powered Narrative Connect Four (Runner-Up, Qualcomm On-Device AI Hackathon)**: Built an offline AI Connect Four with PyQt6, Mistral-7B (Ollama) for storytelling, Whisper ASR, and minimax with alpha-beta pruning.
-
 
 ## Connect with Me 🤝  
 <p align="center">
